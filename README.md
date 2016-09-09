@@ -24,6 +24,9 @@ Each line consists of token with its respective part-of-speech tag separated by 
 - Fam Rashel
 - Andry Luthfi 
 
+### Page
+For publication and more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/corpus
+
 ### License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
